@@ -1,0 +1,6 @@
+{teamName: EchipaRacheta, gender: masculin, numberOfPlayers: 11, players: [{name: Elon1, score: 23}, {name: Elon2, score: 11}, {name: Elon3, score: 25}, {name: Elon4, score: 123}, {name: Elon5, score: 34}, {name: Elon6, score: 12}, {name: Elon7, score: 42}, {name: Elon8, score: 9}, {name: Elon9, score: 8}, {name: Elon10, score: 99}, {name: Elon11, score: 1}]}
+true
+{teamName: The F Lakers, gender: feminin, numberOfPlayers: 5, players: [{name: Lebrona1, score: 100}, {name: Lebrona2, score: 100}, {name: Lebrona3, score: 100}, {name: Lebrona4, score: 100}, {name: Lebrona5, score: 100}]}
+false
+{teamName: milsugi, gender: masculin, numberOfPlayers: 1, players: [{name: msgy, score: 69}]}
+false
